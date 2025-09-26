@@ -1,7 +1,7 @@
 # My Portfolio
 
 ## Overview
-This is my personal portfolio created as part of my **Edunet Internship** project.  
+This is my personal portfolio.
 It showcases my skills, projects, and contact information in a professional layout.
 
 ---
@@ -10,7 +10,7 @@ It showcases my skills, projects, and contact information in a professional layo
 - Home section with animated welcome message
 - About Me section with professional avatar / photo
 - Skills section with technical skills and progress indicators
-- Projects / Services section highlighting completed projects
+- Projects / Education section highlighting completed projects
 - Contact section with social media links and contact form
 - Responsive design for desktop and mobile
 - Smooth animations and hover effects
@@ -29,6 +29,6 @@ It showcases my skills, projects, and contact information in a professional layo
 - CSS3
 - JavaScript
 
----
+
 
 
